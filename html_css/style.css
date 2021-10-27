@@ -1,0 +1,98 @@
+/* Color Default */
+:root {
+  --color-1: #a8a7a7;
+  --color-2: #cc527a;
+  --color-3: #e8175d;
+  --color-4: #474747;
+  --color-5: #363636;
+  --color-6: #1abc9c;
+  --color-white: #ffffff;
+  --color-black: #000000;
+}
+
+/* Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Elementos base */
+body {
+  font-family: "Arial";
+  width: 100vw;
+}
+
+/* cabeçalho */
+header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 2rem;
+  text-align: center;
+  background: var(--color-3);
+  color: white;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+}
+
+header .header-container p {
+  font-size: 24px;
+}
+
+main {
+  background-color: var(--color-white);
+  color: var(--color-4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.main-container h1 {
+  padding: 4rem;
+  font-size: 32px;
+}
+.card {
+  background-color: var(--color-6);
+  color: var(--color-white);
+  padding: 2.5rem;
+  border-radius: 20px;
+  width: 35rem;
+}
+
+.card ul > li {
+  padding-left: 30px;
+  text-align: justify;
+  line-height: 2rem;
+  font-size: 20px;
+  list-style: none;
+}
+
+footer {
+  background-color: var(--color-5);
+  color: var(--color-white);
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+footer > ul {
+  list-style: none;
+  line-height: 1.5rem;
+  font-size: 16px;
+}
+
+footer .company {
+  padding: 10px;
+  font-weight: bolder;
+}
