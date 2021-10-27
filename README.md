@@ -1,11 +1,16 @@
 <h4 align="center">
+
+## Bootcamps Desenvolvedor Frontend React 👋
  
 ![Imagem 1](./infnet-react.png "Imagem 1")
 
-## Bootcamps Desenvolvedor Frontend React 👋
-
-- 🔭 Desenvolvedor Frontend React
-- 🌱 Tecnologias:
+## Habilidades 🔭 
+- Front-end: Habilidades de um profissional de desenvolvimento focado em programar a interface de uma aplicação web e deixá-la pronta para “conversar” com o back-end. Este profissional também se preocupa bastante com a experiência do usuário.
+- Bootstrap, Flexbox, HTML5, React Native, CSS, Flow, JavaScript, Redux, EJS, Hooks, React, entre outras.
+- Mas não só de competências técnicas (hard skills) um excelente profissional é feito. Para conquistar boas oportunidades de trabalho, é necessário combinar suas habilidades técnicas com as comportamentais (soft skills).
+- Juntos, vamos trabalhar para que você consiga conquistar essas oportunidades, possa se manter e crescer cada vez mais como um excelente profissional.
+- Ao longo do bootcamp, você participará de jogos e atividades que visam o aprimoramento dessas competências comportamentais.
+## Tecnologias 🌱
 <div style="display: inline_block" align="center"><br>
 
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -17,7 +22,7 @@
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
- ## Desenvolvimento
+ ## Projetos 🏹
   
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
 
